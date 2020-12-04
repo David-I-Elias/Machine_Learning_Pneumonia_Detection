@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-EPOCHS = 1
+EPOCHS = 10
 data_directory = "chest_xray\chest_xray"
 TEST = 'test'
 TRAIN = 'train'
